@@ -1,4 +1,4 @@
-package com.example.rest.microservies.restful_web_services;
+package com.in28minutes.rest.mircroservices.restfulwebservices.microservices.restfulwebservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
