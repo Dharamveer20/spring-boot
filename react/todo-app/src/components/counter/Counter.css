@@ -1,0 +1,26 @@
+
+button{ /* Jaha bhi button mila unko ye default css de dena */
+    font-size : 16px;
+    margin : 10px;
+    color : white;
+    padding : 15px;
+    border-radius : 30px;
+    border-width : 5px;
+}
+.counterButton{
+    background-Color : #00a5ab;
+    width : 100px;
+    border-color : black;
+    
+}
+
+.totalCount{
+    font-size : 150px;
+    padding : 20px;
+    color : #00a5ab;
+}
+.reset{
+    background-Color : #9400ab;
+    width : 200px;
+
+}
